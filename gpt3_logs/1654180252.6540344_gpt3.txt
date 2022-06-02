@@ -1,0 +1,18 @@
+PROMPT:
+
+Brainstorm many different ideas about how to expand the following passage:
+
+PASSAGE:
+
+Eat bug.
+
+
+
+DIVERGENT IDEAS TO EXPAND:
+-
+
+==========
+
+RESPONSE:
+
+Cook the bug. -Catch the bug. -Grow the bug. -Sell the bug. -Eating bugs is gross. -Bugs are yummy. -Bugs are nutritious. -Bugs are a delicacy.

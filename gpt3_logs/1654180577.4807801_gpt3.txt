@@ -1,0 +1,18 @@
+PROMPT:
+
+Brainstorm many different ideas about how to expand the following passage:
+
+PASSAGE:
+
+Eat bug. Catching the bug is easy, simply put some food out and wait for it to come to you. Once you have your bug, you need to cook it. This can be done a number of ways, but some people prefer to simply fry their bugs in a hot pan. If you're feeling adventurous, you could try baking or grilling your bug. Once it's cooked, you can either eat it yourself or sell it to someone else. Eating bugs is gross to some people, but others find them yummy. Bugs are also quite nutritious, so they make a great addition to any diet. If you're looking for a new and exciting way to spice up your meals, why not give bugs a try?  There are a variety of bugs that you can eat, but not all of them are created equal. Some bugs are better for you than others, and some simply taste better. If you're looking for the best of both worlds, here are some of the best bugs to eat: Grasshoppers are a great source of protein, and they taste pretty good too. If you're looking for a nutritious bug to add to your diet, grasshoppers are a great choice. Crickets are another popular choice for bug eaters. They're high in protein and low in fat, making them a healthy option. They also have a mild, nutty flavor that some people find quite pleasant. If you're looking for a bug that's both nutritious and delicious, mealworms are a great option. They're high in protein and fiber, and they have a mildly sweet flavor. No matter what kind of bug you choose to eat, you're sure to get a nutritious meal. Bugs are a great source of protein, fiber, and other nutrients. So why not give them a try?
+
+
+
+DIVERGENT IDEAS TO EXPAND:
+-
+
+==========
+
+RESPONSE:
+
+Different ways to cook bugs -What do bugs taste like? -How to catch bugs -What are the nutritional benefits of eating bugs? -What are some of the best bugs to eat?

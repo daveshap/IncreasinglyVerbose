@@ -1,0 +1,19 @@
+PROMPT:
+
+Write another passage to follow the first. Use the following ideas to expand and elaborate.
+
+IDEAS:
+
+Cook the bug. -Catch the bug. -Grow the bug. -Sell the bug. -Eating bugs is gross. -Bugs are yummy. -Bugs are nutritious. -Bugs are a delicacy.
+
+FIRST PASSAGE:
+
+Eat bug.
+
+NEXT PASSAGE:
+
+==========
+
+RESPONSE:
+
+Catching the bug is easy, simply put some food out and wait for it to come to you. Once you have your bug, you need to cook it. This can be done a number of ways, but some people prefer to simply fry their bugs in a hot pan. If you're feeling adventurous, you could try baking or grilling your bug. Once it's cooked, you can either eat it yourself or sell it to someone else. Eating bugs is gross to some people, but others find them yummy. Bugs are also quite nutritious, so they make a great addition to any diet. If you're looking for a new and exciting way to spice up your meals, why not give bugs a try?

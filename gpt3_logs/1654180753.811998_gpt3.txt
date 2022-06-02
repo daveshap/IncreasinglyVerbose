@@ -1,0 +1,17 @@
+PROMPT:
+
+Make the following passage longer. Expand, expound, and elaborate on all points. Add lots of detail and new ideas.
+
+PASSAGE:
+
+Eat bug. You may think that sounds gross, but eating bugs is actually really good for you! They are packed with nutrients and are a great source of protein. Plus, they are sustainable and environmentally-friendly. So why not give it a try? There are lots of ways to eat bugs, like roasted, in a soup, or even in a smoothie. Trust me, you won't even taste the difference.
+
+
+
+REWRITTEN LONGER VERSION:
+
+==========
+
+RESPONSE:
+
+Did you know that eating bugs is actually really good for you? You may think that sounds gross, but bugs are packed with nutrients and are a great source of protein. Plus, they are sustainable and environmentally-friendly. So why not give it a try? There are lots of ways to eat bugs, like roasted, in a soup, or even in a smoothie. Trust me, you won't even taste the difference. Eating bugs is a great way to get your protein intake up without harming the environment. Bugs are a sustainable source of food that are packed with nutrients. You can eat them roasted, in a soup, or even in a smoothie. Trust me, you won't even taste the difference. So why not give it a try?

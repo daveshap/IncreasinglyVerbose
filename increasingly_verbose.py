@@ -51,8 +51,17 @@ if __name__ == '__main__':
     chunks = textwrap.wrap(alltext, 3000)
     result = list()
     for chunk in chunks:
+        # original method - single stage cognitive task (works okay, can transform a phrase into a paragraph or so)
         prompt = open_file('prompt.txt').replace('<<PASSAGE>>', chunk)
         expansion = gpt3_completion(prompt)
         print('\n\n\n', expansion)
         result.append(expansion)
+        
+        # two stage method - works a little bit better, but not really great (am disappoint)
+        #prompt = open_file('prompt_brainstorm.txt').replace('<<PASSAGE>>', chunk)
+        #ideas = gpt3_completion(prompt)
+        #prompt = open_file('prompt_expand.txt').replace('<<PASSAGE>>', chunk).replace('<<IDEAS>>', ideas)
+        #expansion = gpt3_completion(prompt)
+        #print('\n\n\n', expansion)
+        #result.append(chunk + '\n\n' + expansion)
     save_file('\n\n'.join(result), 'output.txt')

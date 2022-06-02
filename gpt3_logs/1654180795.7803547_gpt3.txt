@@ -1,1 +1,17 @@
+PROMPT:
+
+Make the following passage longer. Expand, expound, and elaborate on all points. Add lots of detail and new ideas.
+
+PASSAGE:
+
+Did you know that eating bugs is actually really good for you? You may think that sounds gross, but bugs are packed with nutrients and are a great source of protein. Plus, they are sustainable and environmentally-friendly. So why not give it a try? There are lots of ways to eat bugs, like roasted, in a soup, or even in a smoothie. Trust me, you won't even taste the difference. Eating bugs is a great way to get your protein intake up without harming the environment. Bugs are a sustainable source of food that are packed with nutrients. You can eat them roasted, in a soup, or even in a smoothie. Trust me, you won't even taste the difference. So why not give it a try?
+
+
+
+REWRITTEN LONGER VERSION:
+
+==========
+
+RESPONSE:
+
 Did you know that eating bugs is actually really good for you? You may think that sounds gross, but bugs are packed with nutrients and are a great source of protein. Plus, they are sustainable and environmentally-friendly. So why not give it a try? There are lots of ways to eat bugs, like roasted, in a soup, or even in a smoothie. Trust me, you won't even taste the difference. Eating bugs is a great way to get your protein intake up without harming the environment. Bugs are a sustainable source of food that are packed with nutrients. You can eat them roasted, in a soup, or even in a smoothie. Trust me, you won't even taste the difference. So why not give it a try? Roasting bugs is a great way to make them crispy and delicious. Just toss them in some olive oil and sea salt, and roast them in the oven at 400 degrees for 20 minutes. Then, add them to your favorite salad or enjoy them as a snack. If you're looking for a heartier meal, try making a soup with bugs. This is a great way to get all the nutrients and protein that bugs have to offer. Just add some bugs to your favorite soup recipe, or try out a new one. You can even add bugs to your morning smoothie. This is a great way to get all the nutrients from bugs without even tasting them. Just add a handful of bugs to your favorite smoothie recipe and blend away. You won't even know they're there! Eating bugs is a great way to get your protein intake up without harming the environment. Bugs are a sustainable source of food that are packed with nutrients. So why not give it a try?
