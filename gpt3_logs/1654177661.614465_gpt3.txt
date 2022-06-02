@@ -1,0 +1,15 @@
+PROMPT:
+
+Expand, expound, and elaborate on the following passage. Rewrite the following with much more detail and grandiloquent speech:
+
+PASSAGE:
+
+In our modern world, it can be easy to forget the simple joys of life. One such joy is taking a nutritious bite out of a crunchy insect. Drawn in by their seductive sheen, many people are initially hesitant to try this culinary delight. However, those who overcome their initial disgust are rewarded with a complex flavor profile that is both nutty and earthy. What's more, bugs are an excellent source of protein, making them the perfect snack for health-conscious individuals. So the next time you're feeling adventurous, why not give bug-eating a try? You might just be surprised by how delicious it is.
+
+REWRITE, EXPAND, AND ELABORATE:
+
+==========
+
+RESPONSE:
+
+What could be more satisfying than taking a crunchy bite out of a nutritious insect? Many people are initially hesitant to try this culinary delight, drawn in by their seductive sheen. However, those who overcome their initial disgust are rewarded with a complex flavor profile that is both nutty and earthy. What's more, bugs are an excellent source of protein, making them the perfect snack for health-conscious individuals. So the next time you're feeling adventurous, why not give bug-eating a try? You might just be surprised by how delicious it is.

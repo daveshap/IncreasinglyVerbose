@@ -1,0 +1,15 @@
+PROMPT:
+
+Make the following passage longer. Expand, expound, and elaborate on all points. Add detail:
+
+PASSAGE:
+
+What could be more satisfying than taking a crunchy bite out of a nutritious insect? Many people are initially hesitant to try this culinary delight, drawn in by their seductive sheen. However, those who overcome their initial disgust are rewarded with a complex flavor profile that is both nutty and earthy. What's more, bugs are an excellent source of protein, making them the perfect snack for health-conscious individuals. So the next time you're feeling adventurous, why not give bug-eating a try? You might just be surprised by how delicious it is.
+
+LONGER VERSION:
+
+==========
+
+RESPONSE:
+
+What could be more satisfying than taking a crunchy bite out of a nutritious insect? Many people are initially hesitant to try this culinary delight, drawn in by their seductive sheen. However, those who overcome their initial disgust are rewarded with a complex flavor profile that is both nutty and earthy. What's more, bugs are an excellent source of protein, making them the perfect snack for health-conscious individuals. So the next time you're feeling adventurous, why not give bug-eating a try? You might just be surprised by how delicious it is. There are a variety of ways to cook insects, so you can experiment until you find a preparation that suits your taste. Fried bugs are a popular option, as the crispy exterior provides a contrast to the soft, nutty interior. Bug-based recipes are also becoming increasingly popular, so you can even find insect-based dishes at some finer restaurants. So next time you're feeling brave, why not try something new and give bug-eating a try? You might just be surprised by how delicious it is.

@@ -1,0 +1,17 @@
+PROMPT:
+
+Make the following passage longer. Expand, expound, and elaborate on all points. Add lots of detail and new ideas.
+
+PASSAGE:
+
+Nihilism bad.
+
+
+
+REWRITTEN LONGER VERSION:
+
+==========
+
+RESPONSE:
+
+Nihilism is bad because it is the belief that nothing matters and that life is meaningless. This leads to a feeling of despair and hopelessness, which can lead to suicide. Nihilism also leads to a lack of motivation and a sense of apathy. People who believe in nihilism may be less likely to take action to make positive changes in their lives or in the world.
